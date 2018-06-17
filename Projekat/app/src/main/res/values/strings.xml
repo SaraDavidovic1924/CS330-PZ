@@ -1,0 +1,146 @@
+<resources>
+    <string name="app_name">Insta Cocktails</string>
+    <string name="contact_form">Contact Us</string>
+    <string name="contact_form_name">Your Name</string>
+    <string name="contact_form_email">Your Email</string>
+    <string name="contact_form_subject">Subject</string>
+    <string name="contact_form_message">Message</string>
+    <string name="contact_form_button">Send Message</string>
+    <string name="contact_form_post_message">Please wait! We\'re sending your message to the support department...</string>
+    <string name="contact_posted">Your message has been successfully delivered.</string>
+
+
+
+    <string name="bloody_bulldog">
+60 ml
+Bulldog GIn
+120 ml
+Tomato juice
+15 ml
+Lemon juice
+half
+Garlic clove, minced
+1 tbsp
+Prepared horseradish
+1 tbsp
+Balsamic vinegar
+1 tsp
+Worcestershire sauce
+3 dashes
+Celery salt
+3 dashes
+Black pepper
+Tabasco sauce
+
+    </string>
+    <string name="blue_frog">
+
+1/2 oz. (15ml) Vodka
+1/2 oz. (15ml) Rum
+1/2 oz. (15ml) Gin
+1/2 oz. (15ml) Tequila
+1/2 oz. (15ml) Triple Sec
+1/2 oz. (15ml) Blue Curacao
+Top with Red Bull
+Garnish: Orange Slice/Cherry
+
+
+
+    </string>
+    <string name="blue_lagune">
+
+- 1 oz vodka
+- 1 oz blue curacao liqueur
+- 1 oz lemonade
+- 1 cherry
+
+
+
+    </string>
+    <string name="brazilian_cocktail">
+
+1 lime, quartered
+1 -3 teaspoon superfine sugar
+2 ounces cachaca (or light rum or gin or vodka)
+1⁄2 cup crushed ice
+lime wedge, for garnish (optional)
+
+    </string>
+    <string name="long_island_iced_tea">
+
+22 ml
+Gin
+22 ml
+White rum
+22 ml
+Silver tequila
+22 ml
+Vodka
+22 ml
+Triple sec
+22 ml
+Simple syrup
+22 ml
+Lemon juice
+Cola
+
+
+    </string>
+    <string name="dry_martini">
+
+75 ml
+Gin
+Try it with Plymouth
+15 ml
+Dry vermouth
+1 dash
+Orange bitters
+
+    </string>
+    <string name="carborita">
+
+Salt
+60 ml
+Cabo Wabo Reposado Tequila
+30 ml
+Fresh lime juice
+15 ml
+Agave nectar
+
+    </string>
+    <string name="french_martini">
+
+
+60 ml
+Vodka
+Try it with Absolut
+55 ml
+Pineapple juice
+7.5 ml
+Crème de cassis liqueur
+    </string>
+    <string name="partida_margarita">
+
+60 ml
+Partida blanco tequila
+30 ml
+Fresh lime juice
+30 ml
+Agave syrup (one part agave nectar, one part water)
+
+    </string>
+    <string name="strawberry_daiquiri">
+45 ml
+Aged Puerto Rican or Jamaican rum
+22 ml
+Fresh lime juice
+30 ml
+Rich simple syrup*
+1
+Strawberry
+6
+Ice cubes
+
+
+    </string>
+</resources>
